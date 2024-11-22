@@ -7,7 +7,7 @@ I tend to design software with focus on how it interacts with people (both durin
 | Current Project | Status |
 |-|-|
 | Helping out with issue management and research on [Bridgy Fed](https://github.com/snarfed/bridgy-fed) | ongoing |
-| An intuitive, type-erasable signals abstraction for Rust | ongoing, unreleased |
+| [*flourish*](https://crates.io/crates/flourish), an intuitive, type-erasable signals abstraction for Rust | released |
 | Various [RPG Maker plugins](https://tamschi.itch.io/) | ongoing occasional releases |
 | [Asteracea](https://blog.schichler.dev/posts/Asteracea), an efficient low-friction GUI framework in Rust | Technically working, but it's a lower priority yak-shave.<br>Infrequently yields useful OSS libraries. |
 
